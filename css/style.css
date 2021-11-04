@@ -1,0 +1,22 @@
+::-webkit-scrollbar
+{
+	width: 12px;
+}
+::-webkit-scrollbar-thumb{
+	background: linear-gradient(transparent,#363E47);/* bg yerine sadece renk girilebilir */
+	border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover{
+	background: linear-gradient(transparent,#363E17);
+}
+.textrengi{
+	color: #ababab;
+	font-family: 'encode-sans',sans-serif;
+	font-size: 15px;
+}
+a.textrengi:hover{
+	color:white;
+	text-align: center;
+	display: inline-block;
+	font-weight: 550;
+}

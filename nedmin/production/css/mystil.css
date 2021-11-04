@@ -1,0 +1,27 @@
+.aktif{
+	padding: 10px 10px;
+	background-color: green;
+	color: white;
+	text-align: center;	
+	font-weight: 750;
+	border-radius: 10px;
+	
+}
+.pasif{
+	padding: 10px 10px;
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-weight: 700;
+	border-radius: 10px;
+
+}
+.bekleme{
+	padding: 10px 10px;
+	background-color: orange;
+	color: white;
+	text-align: center;
+	font-weight: 700;
+	border-radius: 10px;
+
+}
